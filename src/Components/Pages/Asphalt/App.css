@@ -1,0 +1,29 @@
+.navigation .sub-nav{
+    border-top: 0px solid transparent !important;
+}
+.inner-intro 
+{
+    padding-top: 0px;
+position: relative;
+top: -24px;
+}
+.pagination-nav {
+    padding-bottom: 33px;
+padding-left: 62px;
+}
+.nav-wrap{
+    height: 82px;
+    padding-top: 5px;
+}
+.logo img{
+    max-width: 54%;
+
+    height: 74px;
+
+
+position: absolute;
+top: 0px;
+}
+.p{
+    text-align: justify;
+}

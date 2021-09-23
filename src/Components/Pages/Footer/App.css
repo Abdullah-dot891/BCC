@@ -1,0 +1,30 @@
+#p10{
+    color: white !important;
+}
+
+.padding {
+padding-top: 0px !important; 
+padding-bottom: 0px !important; 
+}
+.main-banner {
+position: relative;
+margin-top: 82px !important;
+
+}
+.navigation .sub-nav{
+border-top: 0px solid transparent !important;
+
+}
+.nav-wrap{
+height: 82px;
+}
+.logo img{
+max-width: 54%;
+
+height: 74px;
+padding-top: 5px;
+
+
+position: absolute;
+top: 0px;
+}
